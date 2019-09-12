@@ -10,3 +10,8 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+
+# my project gitignore
+RPC_simple_demo/out/
+RPC_simple_demo/.idea/
+RPC_simple_demo/*.iml
